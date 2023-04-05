@@ -58,7 +58,7 @@ The data set is a CSV file with the loan data for the Lending Club.
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-This project is a case study and is part of the Machine Learning and Artificial Intelligence courses from upGrad and IIITB..
+This project is a case study and is part of the Machine Learning and Artificial Intelligence courses from upGrad and IIITB.
 
 
 ## Contact
